@@ -24,7 +24,6 @@ A.k.a. **Joshua** or **Yu**
 
 - [Blog: Yu with U](https://yuu.net)
 - [LinkedIn](https://www.linkedin.com/in/xiangyuhou)
-- [GitHub](https://github.com/yuowo39)
 - [Hiya (β)](https://hiya.moe/@yu)
 - [X (formerly Twitter)](https://x.com/yuowo39)
 
