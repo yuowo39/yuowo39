@@ -1,6 +1,6 @@
 # Hello there! Here is **Xiangyu Hou** 👋
 
-A.k.a **Joshua** or **Yu**
+A.k.a. **Joshua** or **Yu**
 
 [![wakatime](https://wakatime.com/badge/user/018e27e0-cf09-4e8b-b3a0-441f9e28b0e7.svg)](https://wakatime.com/@018e27e0-cf09-4e8b-b3a0-441f9e28b0e7)
 
