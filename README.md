@@ -1,4 +1,6 @@
-# Hello there! Here is Yu.
+# Hello there! Here is **Xiangyu Hou** 👋
+
+A.k.a **Jushua** or **Yu**
 
 [![wakatime](https://wakatime.com/badge/user/018e27e0-cf09-4e8b-b3a0-441f9e28b0e7.svg)](https://wakatime.com/@018e27e0-cf09-4e8b-b3a0-441f9e28b0e7)
 
@@ -8,6 +10,7 @@
 - Bookworm
 - Video Game Player
 - Newbie Painter
+- Blogger
 
 **Which programming languages, technology stacks, and tools I mostly use**
 
@@ -19,10 +22,11 @@
 
 **You can find me from**
 
+- [Blog: Yu with U](https://yuu.net)
+- [LinkedIn](https://www.linkedin.com/in/xiangyuhou)
 - [GitHub](https://github.com/yuowo39)
 - [Hiya (β)](https://hiya.moe/@yu)
 - [X (formerly Twitter)](https://x.com/yuowo39)
-- [LinkedIn](https://www.linkedin.com/in/xiangyuhou)
 
 **About my avatars**
 
